@@ -1,4 +1,4 @@
-# Hospital Management System (HMS)
+# Lifeline Health Center - Hospital Management System
 
 <!-- ![Hospital Management System](https://example.com/path/to/your/logo.png) -->
 
@@ -25,6 +25,4 @@ Hospital Management System (HMS) is a comprehensive web application that facilit
 - **Authentication**: JSON Web Tokens (JWT) for secure user authentication
 - **UI Library**: Bootstrap (or any other preferred UI library)
 - **Version Control**: Git (with a hosted repository on GitHub)
-
-## Installation
 
